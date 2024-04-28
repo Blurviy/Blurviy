@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blurviy
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anyting friendly to a noob 
 - 📫 How to reach me on jnrgsb6@gmail.com
 
