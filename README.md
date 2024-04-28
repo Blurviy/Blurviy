@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anyting friendly to a noob 
-- 📫 How to reach me on jnrgsb6@gmail.com
+- 📫 How to reach me on jgaseb@yahoo.com
 
 <!---
 Blurviy/Blurviy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
