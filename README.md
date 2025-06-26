@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Blurviy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anyting friendly to a noob 
-- 📫 How to reach me on jgaseb@yahoo.com
+- 👀 I’m interested in AI/ML, Search algorithms, 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything friendly to a junior developer
+- 📫 How to reach me on jrgaseb@gmail.com
 
 <!---
 Blurviy/Blurviy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
